@@ -1,3 +1,6 @@
-## Spotify_data.csv contains spotify data with the following column names of the artists, genre, year released etc.
-## Spotify.ipynb file contains the jupyter notebooks script used to analyze the  data.
-
+#### Spotify_data.csv contains spotify listeners  data
+#### Spotify.ipynb file contains jupyter notebooks script used to analyze the  spotify data.
+- Imported relevant libraries
+- Explored the dataset
+- Manipulated the dataset
+- Plotted graphs
